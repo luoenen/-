@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">财大预选座</string>
+    <string name="title_home">查询</string>
+    <string name="title_dashboard">选座</string>
+    <string name="title_notifications">订购</string>
+    <string name="welcome_name_chinese">来选座</string>
+    <string name="welcome_name_english">www.laixuanzuo.com</string>
+    <string name="app_announce">能用钱做到的事情千万别动脑子</string>
+    <string name="account">我的学号</string>
+    <string name="password">我的密码</string>
+    <string name="iswork">用户未订阅</string>
+    <string name="tips">Tips:</string>
+    <string name="tip">每月订购费用（服务器，上架，证书）10/M</string>
+    <string name="search_look">查询已订阅客户订阅位置</string>
+    <string name="search_account">客户账号</string>
+    <string name="search_seat">客户订阅位置</string>
+    <string name="search_time">订阅生效时间</string>
+    <string name="rearch_result">点击刷新</string>
+    <string name="weChatSession">微信Session</string>
+    <string name="start">启动预选座</string>
+    <string name="introduce">启动介绍说明:</string>
+    <string name="introduce_text">为加速抢座成功率（不保证100%成功），程序默认启动四个线程加速发送请求，可能会使老旧以及不兼容设备出现闪退现象。（如出现闪退现象，请联系工作人员协商退款）</string>
+    <string name="start_result">抢座请求结果：</string>
+    <string name="response">html</string>
+    <string name="search_eg">20163405092</string>
+    <string name="location">八楼西区38号</string>
+    <string name="search_time_result">2019-01-01</string>
+    <string name="open">点击开启新世界</string>
+    <string name="get_account">学号：</string>
+    <string name="get_status">状态：</string>
+    <string name="book_seat">订阅座位</string>
+    <string name="to_registery">去订阅</string>
+</resources>
